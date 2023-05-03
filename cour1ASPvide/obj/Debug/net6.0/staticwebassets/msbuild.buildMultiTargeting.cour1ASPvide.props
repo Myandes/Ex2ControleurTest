@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\cour1ASPvide.props" />
+</Project>

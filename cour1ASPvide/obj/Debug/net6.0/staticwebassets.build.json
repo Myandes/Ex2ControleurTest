@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "2pjk4OIQc8ftU7j3nqUbJi1rlSXEYeKJR1GSwDvEzGk=",
+  "Source": "cour1ASPvide",
+  "BasePath": "_content/cour1ASPvide",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "cour1ASPvide\\wwwroot",
+      "Source": "cour1ASPvide",
+      "ContentRoot": "C:\\Users\\yande\\OneDrive\\Nouveau dossier\\Desktop\\ASP.NET\\cour1ASP\\cour1ASPvide\\cour1ASPvide\\cour1ASPvide\\wwwroot\\",
+      "BasePath": "_content/cour1ASPvide",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\yande\\OneDrive\\Nouveau dossier\\Desktop\\ASP.NET\\cour1ASP\\cour1ASPvide\\cour1ASPvide\\cour1ASPvide\\wwwroot\\pdf\\application.pdf",
+      "SourceId": "cour1ASPvide",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yande\\OneDrive\\Nouveau dossier\\Desktop\\ASP.NET\\cour1ASP\\cour1ASPvide\\cour1ASPvide\\cour1ASPvide\\wwwroot\\",
+      "BasePath": "_content/cour1ASPvide",
+      "RelativePath": "pdf/application.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pdf\\application.pdf"
+    }
+  ]
+}
